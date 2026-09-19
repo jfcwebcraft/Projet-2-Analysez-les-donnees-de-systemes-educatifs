@@ -1,0 +1,16 @@
+# Fichiers volumineux dépassant le plafond de 100 Mo de GitHub
+EdStatsData.csv
+**/EdStatsData.csv
+*.zip
+*.tar.gz
+
+# Environnements et caches
+.env
+.venv/
+env/
+venv/
+__pycache__/
+*.pyc
+.ipynb_checkpoints/
+.DS_Store
+Thumbs.db
